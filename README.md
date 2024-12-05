@@ -60,7 +60,7 @@ g++ -o DH2urdf DH2urdf.cpp -std=c++11
 3. 运行程序：
 
 ```bash
-./DH2URDF
+./DH2urdf
 ```
 
 程序将提示输入 DH 参数文件的路径。
